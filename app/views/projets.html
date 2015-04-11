@@ -1,0 +1,10 @@
+<h1>Mes Projets</h1>
+<div ng-repeat="lin in donnee.Projets">
+  <div class="centPorcent grandeVignetteProjet box-sizing">
+    <h4>{{lin.title}}</h4>
+    {{lin.description}} <br><br>
+    <div class="centPorcent" style="text-align:center;">
+      <a target="_blank" href={{lin.url}} >Lien vers le projet</a>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,51 @@
+{
+  "identity": {
+    "firstname": "Aurélien",
+    "lastname": "Colombet",
+    "birth": "1993-04-06",
+    "age":"22 ans",
+    "nationality": "French",
+    "city": "Nice",
+    "zipCode": "06100",
+    "country": "France",
+    "email": "aurel.colombet@gmail.com"
+  },
+  "education": {
+    "qualifications": "2011 : Baccalauréat Scientifique",
+    "highschool": "Lycée Albert Camus 42240 Firminy (Loire)",
+    "school": "Polytech' Nice-Sophia",
+    "university": "Nice - Sophia Antipolis"
+  },
+  "skills": {
+    "languages": [
+      "French",
+      "English",
+      "Spanish"
+    ],
+    "computerSkills": [
+      "Java",
+      "Python",
+      "C",
+      "HTML/CSS",
+      "Javascript",
+      "PHP",
+      "Assembleur X86",
+      "Prolog",
+      "LaTeX"
+    ]
+  },
+  "CV":{
+    "urlfr":"https://docs.google.com/file/d/0B9yqDjaiCcrtelhQY2pKVlpIb2s/preview",
+    "urlen":"mycv"
+  },
+  "Projets": [
+    {"title":"DEVINT 2015","url":"https://github.com/M-Nicolas/DEVINT2015","description":"Petit jeu de réflexes pour malvoyant réalisé dans le cadre du Projet DEVINT"},
+    {"title":"spar.fr","url":"http://spar.fr","description":" Site réalisé durant un stage de 6 mois dans une entreprise de développement WEB."},
+    {"title":"Rolling Dice","url":"http://meulon.olympe.in/rolling%20Dice/run.html","description":"Petit Projet personnel de jeu de dés"},
+    {"title":"Script php","url":"http://meulon.olympe.in/JeuSerieux/jeuserieuxcomments.php","description":"Projet personnel de récuperation de commentaires facebook sur un post donné (script en php)"}
+  ],
+  "interests" : {
+    "hobbie" : ["Jeux Vidéo","Lecture","Escalade","Informatique"]
+  }
+
+}
